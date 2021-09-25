@@ -5,3 +5,8 @@ This is an Exploratory Data Analysis of details of different types of covid vacc
 # Airlines Data
 
 This is an EDA which describes the various fights ontime and delay details across different airports in the World.
+
+# Literacy
+
+This data describes the literacy rate of various states in India.
+
